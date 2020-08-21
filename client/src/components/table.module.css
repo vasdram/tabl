@@ -1,0 +1,17 @@
+.table{
+    border: 1px solid #000;
+    font-size: 12px;
+}
+
+.table tr,
+.table td{
+    border: 1px solid #000;
+}
+
+.table td{
+    padding: 10px 20px;
+}
+
+.pointCell{
+    width: 150px;
+}
